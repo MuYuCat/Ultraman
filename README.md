@@ -10,4 +10,4 @@
   8. 构建腿，常见leg类，右腿调用时添加偏移角度.
   
 ### Ultrman的demo演示
-[demo](http:)
+[demo](https://muyucat.github.io/Ultraman/./index.html)
